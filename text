@@ -1,0 +1,6 @@
+my-guest-generator/
+│
+├── main.py             # মূল Flask API
+├── requirements.txt     # Python dependency list
+├── Procfile             # Render deployment instruction
+└── .gitignore           # Git ignore file
